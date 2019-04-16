@@ -1,0 +1,26 @@
+body {
+  color: azure;
+  padding: 100px;
+}
+
+* {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.centered {
+  margin: 0 auto;
+  width: 50vw;
+}
+
+h1 {
+  color: steelblue;
+}
+
+h5 {
+  color: lightsteelblue;
+}
+
+img {
+  margin: 0 auto;
+}
